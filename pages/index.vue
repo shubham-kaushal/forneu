@@ -23,8 +23,8 @@
     <RuntimeTheming />
 
     <SiteBlock
-      heading="Why Forneu?"
-      description="Another UI Framework? Why should anyone care?"
+      heading="Making web development accessible to everyone?"
+      description="The easiest and quickest way to build custom software."
     >
       <nu-grid
         columns="1pr 1pr|||1fr"
@@ -42,11 +42,7 @@
             <nu-icon name="layers-outline" />
           </nu-pane>
           <nu-description>
-            Numl is both a markup language for rapidly building responsive
-            interfaces and a set of ready-to-use highly-customizable accessible
-            elements. So you can use a single comprehensive tool to compose and
-            style web applications. It's also possible to create simple
-            interactions without writing JS.
+            Serverless Framework, CMS, eCommerce.
           </nu-description>
         </nu-card>
 
