@@ -208,7 +208,7 @@ export default {
       short_name: 'Numl.Design',
       description:
         'An open-source Library of Web Components and a Runtime CSS Framework for rapidly building UI that follows your Design System.',
-      dir: 'ltr',
+      dir: 'dist',
       lang: 'en',
       useWebmanifestExtension: false,
       background_color: '#444',
