@@ -56,7 +56,7 @@
             height="100%"
             fit="cover"
             place="cover"
-            src="https://d13k13wj6adfdf.cloudfront.net/urban_areas/san-francisco-bay-area_web-f17b1f60e6.jpg"
+            src="https://images.unsplash.com/photo-1576519465852-4d119fcccf33?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2837&q=80"
           />
           <nu-badge
             place="left bottom 2x"
@@ -65,14 +65,14 @@
             border="n"
             text="up sb"
           >
-            United states
+            India
           </nu-badge>
         </nu-block>
         <nu-markdown padding="2x">
           <textarea>
-            #### San Francisco
+            #### Red Fort
 
-            Officially the **City and County of San Francisco** and colloquially known as **The City**, **SF**, or **Frisco and San Fran**, is the cultural, commercial, and financial center of [Northern California](!https://en.wikipedia.org/wiki/Northern_California).
+            The Red Fort is a historic fort in the city of Delhi in India that served as the main residence of the Mughal Emperors. Emperor Shah Jahan commissioned construction of the Red Fort on 12 May 1638, when he decided to shift his capital from Agra to Delhi.
           </textarea>
         </nu-markdown>
         <nu-line />
