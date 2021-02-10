@@ -7,7 +7,7 @@
   >
     <nu-pane content="space-between" size="md" flow="row|||column" gap="2x 1x">
       <nu-pane text="nowrap">
-        <nu-svg src="/images/forneu-logo-small.svg" height="36.56px" width="121px" />
+        <nu-svg src="/images/forneu-logo-small.svg" height="40px" width="132.38px" />
       </nu-pane>
       <nu-pane size="lg" gap="0|||1x">
         <nu-attrs for="btn" padding="1x 2x|||1x" />
