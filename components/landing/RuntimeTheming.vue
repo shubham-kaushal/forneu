@@ -2,7 +2,7 @@
   <SiteBlock
     badge="colorful and adaptive"
     heading="Runtime theming"
-    description="Numl provides an innovative theming system that can&nbsp;be&nbsp;customized\n in&nbsp;runtime at&nbsp;any&nbsp;level you&nbsp;need."
+    description="Numl powered an innovative theming system that can&nbsp;be&nbsp;customized\n in&nbsp;runtime at&nbsp;any&nbsp;level you&nbsp;need."
   >
     <nu-block>
       <nu-attrs for="btn" color="text :pressed[special]" padding="1x 2x|||1x" />
