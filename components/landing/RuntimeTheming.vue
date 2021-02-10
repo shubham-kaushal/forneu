@@ -1,8 +1,8 @@
 <template>
   <SiteBlock
     badge="colorful and adaptive"
-    heading="Runtime theming"
-    description="Numl powered an innovative theming system that can&nbsp;be&nbsp;customized\n in&nbsp;runtime at&nbsp;any&nbsp;level you&nbsp;need."
+    heading="Numl-Powered Runtime theming"
+    description="[Numl](!https://github.com/numldesign/numl) open-source by Forneu is an innovative theming system that can&nbsp;be&nbsp;customized\n in&nbsp;runtime at&nbsp;any&nbsp;level you&nbsp;need."
   >
     <nu-block>
       <nu-attrs for="btn" color="text :pressed[special]" padding="1x 2x|||1x" />
@@ -71,7 +71,7 @@
             <nu-h3>Modes</nu-h3>
 
             <nu-description>
-              Numl has built-in support for Dark Scheme and High Contrast Mode.
+              Forneu has built-in support for Dark Scheme and High Contrast Mode.
             </nu-description>
 
             <nu-region>
