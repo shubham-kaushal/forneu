@@ -17,39 +17,6 @@
         special
         border="n"
       >
-        <nu-pane size="xl">
-          <nu-btn special to="#getting-started">
-            <nu-icon name="^ book-outline :hover.focus[book-open-outline]" />
-            Get started
-          </nu-btn>
-        </nu-pane>
-        <nu-grid
-          size="md"
-          gap="1x 1gp"
-          flow="column||row"
-          columns="||1pr 1pr"
-          items="center"
-        >
-          <nu-attrs for="btn" padding=".25em .5em"></nu-attrs>
-          <nu-btn clear to="!https://www.npmjs.com/package/numl">
-            <nu-icon name="cube"></nu-icon>
-            {{ App.version }}
-          </nu-btn>
-          <nu-btn clear to="!https://github.com/numldesign/numl">
-            <nu-icon name="github"></nu-icon>
-            Github
-            <nu-icon name="star"></nu-icon>
-            {{ githubStars }}
-          </nu-btn>
-          <nu-btn clear to="!https://discord.gg/sHnHPnAPZj">
-            <nu-icon name="message-circle-outline"></nu-icon>
-            Discord
-          </nu-btn>
-          <nu-btn clear to="!https://twitter.com/numldesign">
-            <nu-icon name="twitter"></nu-icon>
-            Twitter
-          </nu-btn>
-        </nu-grid>
       </SiteBlock>
     </nu-block>
 
