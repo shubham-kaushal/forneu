@@ -7,23 +7,22 @@
   >
     <nu-pane content="space-between" size="md" flow="row|||column" gap="2x 1x">
       <nu-pane text="nowrap">
-        <nu-svg src="/images/nude-logo-small.svg" height="5x" width="5x" />
-        <nu-h2 size="h4"> Numl<nu-el opacity=".7">.Design</nu-el> </nu-h2>
+        <nu-svg src="/images/forneu-logo-small.svg" height="82.14px" width="271.86px" />
       </nu-pane>
       <nu-pane size="lg" gap="0|||1x">
         <nu-attrs for="btn" padding="1x 2x|||1x" />
         <nu-attrs for="icon" show="y||||n" />
-        <nu-btn clear to="/handbook">
-          <nu-icon name="book" />
-          Handbook
+        <nu-btn clear to="!https://www.instagram.com/forneuhq">
+          <nu-icon name="logo-instagram" />
+          Instagram
         </nu-btn>
-        <nu-btn clear to="/storybook">
-          <nu-icon name="layout" />
-          Storybook
+        <nu-btn clear to="https://www.facebook.com/forneuhq">
+          <nu-icon name="logo-facebook" />
+          Facebook
         </nu-btn>
-        <nu-btn clear to="!https://github.com/numldesign/numl">
-          <nu-icon name="github" />
-          Github
+        <nu-btn clear to="!https://twitter.com/forneuhq">
+          <nu-icon name="logo-twitter" />
+          Twitter
         </nu-btn>
       </nu-pane>
       <!--      <nu-block>-->
