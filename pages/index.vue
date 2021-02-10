@@ -23,7 +23,7 @@
     <RuntimeTheming />
 
     <SiteBlock
-      heading="Why Numl?"
+      heading="Why Forneu?"
       description="Another UI Framework? Why should anyone care?"
     >
       <nu-grid
@@ -97,7 +97,7 @@
 
     <SiteBlock
       heading="Join the community"
-      description="Your contribution and feedback will help us to constantly bring new&nbsp;awesome&nbsp;updates"
+      description="We're still opening, to get notified of early access connect with us!"
     >
       <nu-pane
         gap="1x"
@@ -114,25 +114,17 @@
           color="special"
           shadow="no :hover[#shadow.33]"
         />
-        <nu-btn to="!https://github.com/numldesign/numl">
-          <nu-icon name="github-outline"></nu-icon>
-          Github
+        <nu-btn to="!https://www.facebook.com/forneuhq">
+          Facebook
         </nu-btn>
-        <nu-btn to="!https://discord.gg/sHnHPnAPZj">
-          <nu-icon name="message-circle-outline"></nu-icon>
-          Discord
+        <nu-btn to="!https://instagram/forneuhq">
+          Instagram
         </nu-btn>
-        <nu-btn to="!https://twitter.com/numldesign">
-          <nu-icon name="twitter-outline"></nu-icon>
+        <nu-btn to="!https://twitter.com/forneuhq">
           Twitter
         </nu-btn>
-        <nu-btn to="!mailto:inbox@numl.design">
-          <nu-icon name="email-outline"></nu-icon>
+        <nu-btn to="!mailto:care@forneu.com">
           eMail
-        </nu-btn>
-        <nu-btn to="!https://www.patreon.com/tenphi">
-          <nu-icon name="heart-outline"></nu-icon>
-          Sponsor
         </nu-btn>
       </nu-pane>
     </SiteBlock>
