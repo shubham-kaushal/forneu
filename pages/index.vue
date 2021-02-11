@@ -11,7 +11,7 @@
         badge="serverless framework · cms · eCommerce"
         heading="Build your web or mobile apps in minutes"
         description="Highly-scalable & highly-available out of the box."
-        padding="10x 0||8x 0|4x 0 8x"
+        padding="4x, 0x, 8x, 0x"
         level="1"
         fill="clear"
         special
