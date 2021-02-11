@@ -6,7 +6,7 @@
     fill="clear"
   >
     <nu-pane content="center">
-        <nu-svg src="/images/forneu-logo-small.svg" height="40px" width="132.38px" />
+        <nu-svg src="/images/forneu-logo-small.svg" height="71.01px" width="235px" />
       </nu-pane>
   </nu-header>
 </template>
