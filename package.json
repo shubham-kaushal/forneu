@@ -1,6 +1,6 @@
 {
-  "name": "numl.design",
-  "description": "An open-source Library of Web Components and a Runtime CSS Framework for rapidly building UI that follows your Design System",
+  "name": "Forneu",
+  "description": "Build your web or mobile apps in minutes",
   "version": "1.0.0",
   "private": true,
   "scripts": {
