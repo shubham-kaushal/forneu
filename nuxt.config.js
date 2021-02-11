@@ -20,7 +20,7 @@ export default {
       'data-nu-icons': 'ion',
       'data-nu-prevent': '',
     },
-    title: 'Numl Design – Universal UI Framework for Modern Web Interfaces',
+    title: 'Forneu – Build your web or mobile apps in minutes',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -200,15 +200,15 @@ export default {
     },
   },
   sitemap: {
-    hostname: 'https://numl.design',
+    hostname: 'https://forneu.com',
   },
   pwa: {
     manifest: {
-      name: 'Numl.Design – Universal UI Framework',
-      short_name: 'Numl.Design',
+      name: 'Forneu – Build your web or mobile apps in minutes',
+      short_name: 'Forneu',
       description:
-        'An open-source Library of Web Components and a Runtime CSS Framework for rapidly building UI that follows your Design System.',
-      buildDir: 'nuxt-dist',
+        'Build your web or mobile apps in minutes',
+      Dir: 'ltr',
       lang: 'en',
       useWebmanifestExtension: false,
       background_color: '#444',
