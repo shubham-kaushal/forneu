@@ -1,8 +1,8 @@
 <template>
   <SiteBlock
     badge="colorful and adaptive"
-    heading="Runtime theming"
-    description="Numl-Powered open-source by Forneu is an innovative theming system that can&nbsp;be&nbsp;customized\n in&nbsp;runtime at&nbsp;any&nbsp;level you&nbsp;need."
+    heading="Numl-Powered Runtime theming"
+    description="Numl open-source by Forneu is an innovative theming system that can be customized in runtime at any level you need."
   >
     <nu-block>
       <nu-attrs for="btn" color="text :pressed[special]" padding="1x 2x|||1x" />
