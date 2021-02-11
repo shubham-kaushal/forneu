@@ -23,7 +23,7 @@
     <RuntimeTheming />
 
     <SiteBlock
-      heading="Making web development accessible to everyone?"
+      heading="Making web development accessible to everyone"
       description="The easiest and quickest way to build custom software."
     >
       <nu-grid
@@ -42,7 +42,9 @@
             <nu-icon name="layers-outline" />
           </nu-pane>
           <nu-description>
-            Serverless Framework, CMS, eCommerce.
+            You get a full-stack project with GraphQL API, Serverless Framework,
+            CLI, and CMS. Write custom apps and business logic with a set of
+            ready-made apps to create APIs, pages and forms using no-code approach.
           </nu-description>
         </nu-card>
 
@@ -54,10 +56,9 @@
             <nu-icon name="flash-outline" />
           </nu-pane>
           <nu-description>
-            Numl is built on top of Web Components, a modern web API to create
-            reusable UI elements, and it's compatible with most modern
-            JS-frameworks. You can use it as is or create lightweight wrappers
-            for your favorite framework to improve DX, SSR and SEO.
+            Visually design and code apps in realtime with your team of
+            designer/developer collaboration. Interactively create apps with familiar
+            visual tools with or without writing any code.
           </nu-description>
         </nu-card>
 
@@ -69,9 +70,9 @@
             <nu-icon name="bulb-outline" />
           </nu-pane>
           <nu-description>
-            Numl is based on unique CSS generation technology that allows you to
-            unleash all the power of modern CSS and take all styles under your
-            control.
+            Forneu is based on Numl runtime innovative theming system that allows you to
+            unleash the power of customization in runtime at any level you need.
+            Take all styles under your control.
           </nu-description>
         </nu-card>
 
@@ -83,8 +84,8 @@
             <nu-icon name="code-outline" />
           </nu-pane>
           <nu-description>
-            Numl is focused on providing the best possible Developer Experience.
-            It has lots of built-in helpers and solutions for routine UI
+            Forneu is focused on providing the best possible Developer Experience.
+            It has lots of built-in helpers and solutions for routine
             development and its atomic approach is convenient for customization,
             maintaining, and refactoring.
           </nu-description>
@@ -93,7 +94,7 @@
 
     <SiteBlock
       heading="Join the community"
-      description="We're still opening, to get notified of early access connect with us!"
+      description="We're in private beta, to get notified of early access connect with us!"
     >
       <nu-pane
         gap="1x"
@@ -124,6 +125,9 @@
         </nu-btn>
       </nu-pane>
     </SiteBlock>
+    <SiteBlock
+      description="Copyright © 2021 Breadcrumb Private Limited"
+    > </SiteBlock>
   </nu-block>
 </template>
 
