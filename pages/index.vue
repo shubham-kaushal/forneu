@@ -6,10 +6,7 @@
     <nu-attrs for="grid" items="start stretch" gap="1gp" />
 
     <nu-block theme="special" :image="gradient">
-      
-      <nu-pane content="center">
-        <nu-svg src="/images/forneu-logo-small.svg" height="40px" width="132.38px" />
-      </nu-pane>
+      <Topbar />
       <SiteBlock
         badge="serverless framework · cms · eCommerce"
         heading="Build your web or mobile apps in minutes"
@@ -126,8 +123,8 @@
         <nu-btn to="!mailto:care@forneu.com">
           eMail
         </nu-btn>
-        description="Copyright © 2021 Breadcrumb Private Limited"
       </nu-pane>
+      <h6> Copyright © 2021 Breadcrumb Private Limited </h6>
     </SiteBlock>
   </nu-block>
 </template>
