@@ -71,7 +71,7 @@
             <nu-h3>Modes</nu-h3>
 
             <nu-description>
-              Forneu has built-in support for Dark Scheme and High Contrast Mode.
+              Forneu has built-in support for Dark Theme and High Contrast Mode.
             </nu-description>
 
             <nu-region>
