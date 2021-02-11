@@ -2,7 +2,7 @@
   <nu-header
     width="--content-width"
     space="around"
-    padding="4x 1cp||2x 1cp"
+    padding="8x, 0x, 0x, 0x"
     fill="clear"
   >
     <nu-pane content="center">
